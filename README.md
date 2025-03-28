@@ -63,6 +63,6 @@ Based upon https://github.com/meysam81/meysam81/blob/master/README.md
 
 <!-- <a href="https://developer-friendly.blog" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-Developer%20Friendly-red?style=flat&logo=firefox"></a> -->
 <a href="https://www.linkedin.com/in/lpiot/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-lpiot-blue?style=flat&logo=linkedin"></a>
-<a href="mailto:ludovic.piot@thegaragebandofit.com"><img alt="Email" src="https://img.shields.io/badge/Email-lpiot@thegaragebandofit.com-blue?style=flat&logo=gmail"></a>
+<a href="mailto:ludovic.piot@thegaragebandofit.com"><img alt="Email" src="https://img.shields.io/badge/Email-ludovic.piot@thegaragebandofit.com-blue?style=flat&logo=gmail"></a>
 
 </p>
